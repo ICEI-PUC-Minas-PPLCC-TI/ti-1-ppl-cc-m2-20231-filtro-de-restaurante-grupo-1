@@ -25,6 +25,35 @@ Público alvo
   Uma vez que o site informará restaurantes próximos a PUC Minas da Praça da Liberdade, o público alvo serão os membros da instituição, como estudantes e funcionários que frequentam o local, mas também pode ser utilizado por moradores próximos da Praça da Liberdade.
 
 
+Requisitos do projeto
+
+O site precisa reconhecer todos os restaurantes próximos da Praça da Liberdade
+O site precisa ter a localização de todos os restaurantes próximos da Praça da Liberdade
+O site precisa mostrar rotas para chegar ao restaurante 
+O site precisa apresentar imagens dos restaurantes
+O site precisa possibilitar a avaliação dos restaurantes pelos usuários
+O filtro do site precisa mostrar em ordem os restaurantes mais frequentados e com as melhores avaliações 
+O site precisa ter uma interface intuitiva
+O site precisa utilizar uma linguagem simples e de fácil compreensão
+O site precisa de uma aba para pessoas vegetarianas
+
+
+
+
+Projeto de interface
+
+Metodologia
+
+DESIGN DO SITE: Bárbara Marcella e Flávia Figueiredo
+
+FUNCIONALIDADES DO SITE: Caio Domingos, Gabriel Tamietti e Pedro Augusto Milon
+
+DESENVOLVIMENTO DO SOFTWARE: Bárbara Marcella, Caio Domingos, Flávia Figueiredo, Gabriel Tamietti e Pedro Augusto
+
+ENTREVISTA AO PÚBLICO-ALVO: Caio Domingos e Gabriel Tamietti
+
+LIDERANÇA: Flávia Figueiredo e Gabriel Tamietti
+
 
 Especificação do projeto
 
